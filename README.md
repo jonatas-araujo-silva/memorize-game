@@ -42,13 +42,6 @@ This project is a SwiftUI-based implementation of the classic Memory Game, desig
 
 ---
 
-## 📷 Demo:
-
-![Emoji Memory Game Demo](demo-ezgif.com-video-to-gif-converter.gif)
-
-
----
-
 ## 👨‍💻 Author
 
 Made with ❤️ using Swift and SwiftUI.  
