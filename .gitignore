@@ -1,0 +1,14 @@
+# Xcode
+xcuserdata/
+*.xcworkspace
+DerivedData/
+build/
+*.app
+
+# macOS system files
+.DS_Store
+
+# Other common ignores
+.idea/
+.vscode/
+*.log
