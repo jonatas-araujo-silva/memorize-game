@@ -40,10 +40,4 @@ This project is a SwiftUI-based implementation of the classic Memory Game, desig
 - Interactive **tap gestures** (`.onTapGesture`) make the game feel dynamic and responsive.
 - Animations are integrated in a way that respects state-driven UI updates, keeping logic and presentation in sync.
 
----
-
-## 👨‍💻 Author
-
-Made with ❤️ using Swift and SwiftUI.  
-
 Jonatas Araújo da Silva
