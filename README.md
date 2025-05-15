@@ -39,5 +39,3 @@ This project is a SwiftUI-based implementation of the classic Memory Game, desig
 - Card flipping and matching are enhanced with smooth **SwiftUI animations** (`withAnimation`), adding visual feedback to user actions.
 - Interactive **tap gestures** (`.onTapGesture`) make the game feel dynamic and responsive.
 - Animations are integrated in a way that respects state-driven UI updates, keeping logic and presentation in sync.
-
-Jonatas Araújo da Silva
